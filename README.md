@@ -3,7 +3,7 @@
 這個專案是一個使用 Python 和 BeautifulSoup 撰寫的網頁爬蟲，目的是自動擷取亞洲大學資訊工程學系（CSIE）網站上的教師資料。爬蟲會抓取每位老師的職稱、姓名和研究領域，並將資料儲存成兩個格式：文字檔 (professors.txt) 和 SQLite 資料庫 (professors.db)。
 
 # 使用技術
-1.Python 3.x
+1.Python 3.10
 
 2.BeautifulSoup：用來解析 HTML 內容
 
